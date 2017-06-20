@@ -18,3 +18,37 @@ Abbreviations
  * **TRUE** - [Transparent, Reasonable, Usable, Exemplary](http://designisrefactoring.com/2015/02/16/true-in-action/)
  
  * **GRASP** - [General Responsibility Assignment Software Patterns](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+
+One Liners
+============
+ * [Do One Thing and Do It Well](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well)
+ * [Write code that is easy to delete, not easy to extend.](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+ * [The Best Code is No Code At All](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
+ * [Make It Work Make It Right Make It Fast](http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
+ * [Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.](http://wiki.c2.com/?CodeForTheMaintainer)
+ * The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast. - Joshua Bloch
+ * Figure out your data structures, and the code will follow. - William Laeder
+ * Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Christopher Thompson
+
+
+Zen Of Python
+=============
+    Beautiful is better than ugly.
+    Explicit is better than implicit.
+    Simple is better than complex.
+    Complex is better than complicated.
+    Flat is better than nested.
+    Sparse is better than dense.
+    Readability counts.
+    Special cases aren't special enough to break the rules.
+    Although practicality beats purity.
+    Errors should never pass silently.
+    Unless explicitly silenced.
+    In the face of ambiguity, refuse the temptation to guess.
+    There should be one-- and preferably only one --obvious way to do it.
+    Although that way may not be obvious at first unless you're Dutch.
+    Now is better than never.
+    Although never is often better than *right* now.
+    If the implementation is hard to explain, it's a bad idea.
+    If the implementation is easy to explain, it may be a good idea.
+    Namespaces are one honking great idea -- let's do more of those!
